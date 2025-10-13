@@ -1,6 +1,5 @@
 'use client'
 
-import Card from "@/components/Card"
 import AboutMe from "@/sections/AboutMe"
 import Experience from "@/sections/Experience"
 import HeroSection from "@/sections/HeroSection"

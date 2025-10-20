@@ -71,7 +71,11 @@ function Header() {
                                 <ul className="flex flex-col gap-2 font-medium dark:text-white text-gray-600">
                                     {Nav_links.map((item, index) => (
                                         <li key={index}>
-                                            <Link href={item.href}>{item.label}</Link>
+                                            <Link href={item.href} onClick={() => {
+                                                const timeoutId = setTimeout(() => {
+                                                setIsOpen(false);
+                                                clearTimeout(timeoutId);
+                                                }, 500)}}>{item.label}</Link>
                                         </li>
                                     ))}
                                 </ul>

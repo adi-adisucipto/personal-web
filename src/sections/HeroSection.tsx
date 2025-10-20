@@ -16,7 +16,7 @@ function HeroSection() {
           <div className="max-w-3xl flex flex-col flex-grow gap-8 justify-center 2xl:gap-12">
             <div className="flex flex-col gap-2">
               <h1 className="text-4xl font-semibold md:font-bold md:text-5xl lg:text-6xl lg:leading-[72px] text-gray-900 dark:text-white">Hai, Saya Adi</h1>
-              <p className="text-base text-gray-900/80 dark:text-white/80">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ab explicabo reprehenderit nulla cumque nisi similique facere quos provident, optio dolorum natus repellat sint itaque voluptatum atque? Possimus distinctio doloremque molestiae dolor quod non, ducimus rerum! Voluptates natus laborum sunt, ex, consequatur deleniti atque perspiciatis maxime facilis explicabo cum quasi?</p>
+              <p className="text-base text-gray-900/80 dark:text-white/80">Saya Adi Sucipto, lahir pada tanggal 04 Mei 1998. Saya adalah lulusan Fisika dari Universitas Lampung pada tahun 2022. Memiliki pengalaman di dunia pendidikan, saya pernah mendedikasikan diri sebagai guru di SDN 03 Kampung Baru Bandar Lampung dan SMA Pangudi Luhur Bandar Lampung. Saat ini, saya aktif sebagai Guru Matematika di Ganesha Operation, di mana saya berfokus pada penyampaian materi secara efektif dan inspiratif. Selain pengajaran, saya juga memiliki minat yang kuat di bidang teknologi dan sedang aktif mempelajari web development, khususnya dengan stack React, Tailwind CSS, dan Express. Saya antusias untuk menggabungkan latar belakang analitis saya dengan keterampilan teknis baru untuk menciptakan solusi yang inovatif.</p>
             </div>
             <div className="flex gap-2">
               <MapPin/>

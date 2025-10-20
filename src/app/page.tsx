@@ -1,6 +1,7 @@
 'use client'
 
 import AboutMe from "@/sections/AboutMe"
+import Contact from "@/sections/Contact"
 import Experience from "@/sections/Experience"
 import HeroSection from "@/sections/HeroSection"
 import Portofolio from "@/sections/Portofolio"
@@ -16,6 +17,7 @@ function Home() {
       <Portofolio/>
       <Experience/>
       <Testimonials/>
+      <Contact/>
     </>
   )
 }

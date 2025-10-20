@@ -12,7 +12,9 @@ function Portofolio() {
                 </div>
                 <div className='p-8 flex flex-col gap-2 dark:bg-gray-700 md:rounded-r-xl md:rounded-l-none rounded-b-xl'>
                     <h3 className='font-semibold text-xl text-gray-900 dark:text-white'>To Do List</h3>
-                    <p className='text-gray-900/70 dark:text-white'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ut odio praesentium inventore et quod eveniet, facere iste atque optio voluptatum alias reiciendis nemo repellat quasi, quas cumque laudantium, repudiandae ea! Laudantium consequatur facere amet sint magni alias dolorem possimus, quis debitis iste nisi molestias sit itaque aspernatur veniam reprehenderit?</p>
+                    <p className='text-gray-900/70 dark:text-white'>Saya telah berhasil membuat sebuah aplikasi web to do list di mana pengguna bisa memasukkan daftar tugas yang sedang dikerjakan.</p>
+                    <p className='text-gray-900/70 dark:text-white'>Aplikasi ini berbasis React Js dan Tailwind. Pengguna bisa memasukkan daftar tugasnya dan dapat menceklis jika tugas telah selesai.</p>
+                    <p className='text-gray-900/70 dark:text-white'>Selain itu pengguna juga bisa menampilkan semua daftar tugas berdasarkan filter "active" dan "completed". Pengguna juga bisa menghapus daftar tugas yang sudah selesai maupun yang tidak dikerjakan.</p>
                 </div>
             </div>
         </div>

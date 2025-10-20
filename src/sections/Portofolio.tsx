@@ -14,7 +14,7 @@ function Portofolio() {
                     <h3 className='font-semibold text-xl text-gray-900 dark:text-white'>To Do List</h3>
                     <p className='text-gray-900/70 dark:text-white'>Saya telah berhasil membuat sebuah aplikasi web to do list di mana pengguna bisa memasukkan daftar tugas yang sedang dikerjakan.</p>
                     <p className='text-gray-900/70 dark:text-white'>Aplikasi ini berbasis React Js dan Tailwind. Pengguna bisa memasukkan daftar tugasnya dan dapat menceklis jika tugas telah selesai.</p>
-                    <p className='text-gray-900/70 dark:text-white'>Selain itu pengguna juga bisa menampilkan semua daftar tugas berdasarkan filter "active" dan "completed". Pengguna juga bisa menghapus daftar tugas yang sudah selesai maupun yang tidak dikerjakan.</p>
+                    <p className='text-gray-900/70 dark:text-white'>Selain itu pengguna juga bisa menampilkan semua daftar tugas berdasarkan filter active dan completed. Pengguna juga bisa menghapus daftar tugas yang sudah selesai maupun yang tidak dikerjakan.</p>
                 </div>
             </div>
         </div>
